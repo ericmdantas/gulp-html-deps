@@ -28,5 +28,8 @@
     "mocha": "^3.2.0",
     "mocha-lcov-reporter": "^1.2.0",
     "sinon": "^1.17.6"
+  },
+  "dependencies": {
+    "htmlparser2": "^3.9.2"
   }
 }
