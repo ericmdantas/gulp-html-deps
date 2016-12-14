@@ -8,3 +8,5 @@ x.on('a', (info) => {
 x.on('e', (err) => {
   console.log(err)
 })
+
+x.parse()
